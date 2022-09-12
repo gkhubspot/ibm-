@@ -5,8 +5,7 @@ SENSORS USED:
   TEMPERATURE SENSOR
 
 
-MY TINKERCAD LINK - https://www.tinkercad.com/things/anYEMzrPdUZ-copy-of-home-automation-system/editel?tenant=circuits 
-
+MY TINKERCAD LINK - https://www.tinkercad.com/things/jShnkoLFklP-copy-of-home-automation-system/editel?sharecode=I_ImZ4sAZC52ROw8vn7XEcLfkiPOZsl3PaVdDyvloww
 
 DONE BY
 
