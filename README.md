@@ -6,7 +6,6 @@ SENSORS USED:
 
 
 MY TINKERCAD LINK - https://www.tinkercad.com/things/jShnkoLFklP-copy-of-home-automation-system/editel?sharecode=I_ImZ4sAZC52ROw8vn7XEcLfkiPOZsl3PaVdDyvloww
-
 DONE BY
 
 GOKULA KRISHNAN K -9177D19D023
